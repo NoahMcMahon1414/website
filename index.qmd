@@ -1,5 +1,5 @@
 ---
-title: "Day 1 Lab - Noah McMahon"
+title: "NOAH MCMAHON"
 format: html
 editor: visual
 ---
